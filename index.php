@@ -287,11 +287,10 @@
     <div id="abomination" class="trashy-animation" style="opacity: 0.25">someone help</div>
 
     <div class="slideshow">
-        <audio id="sound" src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"></audio>
 
-        <img src=".\assets\slide1.png" alt="Trashy Image 1" class="slide" style="display: block; animation-delay: 1s; animation-duration: 40s;">
-        <img src=".\assets\slide2.jpg" alt="Trashy Image 2" class="slide" style="animation-delay: 2s; animation-duration: 40s;">
-        <img src=".\assets\slide3.jpg" alt="Trashy Image 3" class="slide" style="animation-delay: 3s; animation-duration: 40s;">
+        <img src="slide1.png" alt="Trashy Image 1" class="slide" style="display: block; animation-delay: 1s; animation-duration: 40s;">
+        <img src="slide2.jpg" alt="Trashy Image 2" class="slide" style="animation-delay: 2s; animation-duration: 40s;">
+        <img src="slide3.jpg" alt="Trashy Image 3" class="slide" style="animation-delay: 3s; animation-duration: 40s;">
         <!-- Add more images as needed -->
     </div>
 
